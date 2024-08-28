@@ -1,0 +1,19 @@
+REST -> Representation state tranfer 
+    -> estilo de arquitectura de software 
+    -> documento de recomendaciones para construir Apis 
+    -> rest estandariza la sintaxis de las peticiones 
+    verbo http-url-datos(app.get('/prductos/:id')) 
+    -> rest es independiete del lenguaje en el que se programa
+
+    es una documentacion para crear APIS 
+
+
+API -> aplicacion intermedia entre los datos y el cliente (front)
+
+
+REST FULL API -> es una api construida utilizando recomendaciones rest
+                funcionan estrictamente bajo arquitectura cliente-servidor
+                utilizndo http como protocolo de comunicaciòn 
+                operaciones de una api rest: crear-leer-actualizar-eliminar-
+                                            crete- read - apdate - delete
+                                                  (crud)
